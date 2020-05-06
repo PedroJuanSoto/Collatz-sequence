@@ -1,2 +1,1 @@
 # Collatz-sequence
-# Collatz-sequence
